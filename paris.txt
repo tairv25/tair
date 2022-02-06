@@ -1,0 +1,42 @@
+<html>
+<head>
+ 
+<title> seat ibiza club israel </title> 
+<link rel="stylesheet" href="style.css">
+<body>
+<h1 style="background-color:red;"><u>  seat ibiza club israel</u> </h1>
+<h2> <i>seat ibiza 1.5 fr </i></h2>
+<h2 ><i>seat ibiza 1.0 fr</i></h2> 
+
+
+<h2 class="green big-font">seat new ibiza</h2>
+<ol>
+	<li> ibiza 1.5</li> 
+	<li> <a href="https://buy-seat-online.co.il/configurator?brand=S&modelCode=KJ12RZ&trimLevelCode=57&modelGroupCode=22"> ibiza 1.0</a></li>
+	
+	
+	<b>inside picture</b> 
+</ol>
+
+<img src="https://cdn.pixabay.com/photo/2018/12/20/09/59/seat-ibiza-fr-3885586_960_720.jpg" ><br>
+<br> <img src="image/car-g6ae0ad981_1920.jpg" >
+<br>
+<a  class="green" href="https://www.seat.co.il/lp/ao/seat-ibiza/" target="_blank" >click here for  new seat ibiza </a>   
+
+
+  
+<p><div  id="specialstyle">The SEAT Ibiza is a supermini car that has been manufactured by Spanish car manufacturer SEAT since 1984.</div> <br>It is SEAT's best-selling car.[2] The Ibiza is named after the Spanish island of Ibiza and was the second SEAT model to be named after a Spanish location, after the SEAT Málaga. It was introduced at the 1984 Paris Motor Show as the first car developed by SEAT as an independent company, although it was designed by SEAT in collaboration with well-known firms including Italdesign, Karmann, and Porsche.[2]
+
+</p>From the second-generation version onwards, SEAT formed part of the German automotive industry concern Volkswagen Group. All subsequent Ibiza generations, and the rest of the SEAT model range, incorporated Volkswagen Group platforms, parts, and technologies. <hr>
+
+The Ibiza spans five generations, among which it has debuted twice (in its second and in its fourth generations) a new platform of the Volkswagen Group. All of them were the top-selling model in SEAT's product line.
+
+The Ibiza is now available only in five-door hatchback variants; between 1993 and 2008, saloon, coupé, and estate versions were sold as the SEAT Córdoba. In 2010, an estate version, called Ibiza ST, was launched.
+<p>
+
+</p>
+</body>
+
+</head>
+
+</html>
